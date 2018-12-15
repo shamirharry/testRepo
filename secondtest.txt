@@ -1,3 +1,7 @@
 a
 calabas is the bormb
+<<<<<<< HEAD
 jjpp
+=======
+jjohn is fruity
+>>>>>>> master
